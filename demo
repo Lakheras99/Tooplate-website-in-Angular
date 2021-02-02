@@ -1,0 +1,33 @@
+ <mat-card class="tooplate1"> 
+
+  
+  <img mat-card-image src="assets/tooplate1.jpg" >
+  <mat-card-content>
+    <a href="">Nano Folio</a>
+    <p>
+      Nano Folio is simple HTML website<br>
+      template with a very light-weight custom<br>
+       CSS file. This is a minimal layout...
+    </p>
+  </mat-card-content>
+ </mat-card>
+
+ <mat-card class="tooplate2">
+  <img mat-card-image src="assets/tooplate2.jpg">
+  <mat-card-content>
+    <a href="">Wave Cafe</a>
+    <p>
+      Wave Cafe is one-page HTML template<br> with a video background. Contents are <br>separated into four sections...
+    </p>
+  </mat-card-content>
+</mat-card>
+
+<mat-card class="tooplate3">
+  <img mat-card-image src="assets/tooplate3.jpg">
+  <mat-card-content>
+    <a href="">Ben Resume</a>
+    <p>Ben's resume template can be served as<br> one-page HTML profile for anyone. You<br> can quickly edit and put your...
+      </p>
+  </mat-card-content>
+
+</mat-card>
